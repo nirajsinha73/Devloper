@@ -1,3 +1,3 @@
 
 echo "Hello"
-sh 'pwd'
+sh 'npm yum update -y'
