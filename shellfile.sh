@@ -1,3 +1,3 @@
 
 echo "Hello"
-sh 'npm yum update -y'
+echo "Shared pipeline completed"
